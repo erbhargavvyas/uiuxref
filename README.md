@@ -11,7 +11,7 @@ The structure of the `index.html` is simple.
 ## Added new image
 To add new image and its description follow steps given below. 
 
-1. Upload your image
+1. Upload your image into `img` folder
 1. Edit index.html
 1. Copy folllowing code 
     ```html
